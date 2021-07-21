@@ -1,0 +1,2 @@
+# YoursChores.Server
+TEST ASP.NET CORE AND REACT NATIVE
